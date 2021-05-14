@@ -1,3 +1,4 @@
+![common-programming-languages-1024x303](https://user-images.githubusercontent.com/74223472/118310639-e1cb9900-b4bc-11eb-967d-a7a286632422.png)
 
 
 Hola'👋 (no I dont acutally know spanish lol)
@@ -23,5 +24,4 @@ Hola'👋 (no I dont acutally know spanish lol)
                                (cues cheesy drum effect)
                                
                                        
-![github-banner](https://user-images.githubusercontent.com/74223472/118310113-2c004a80-b4bc-11eb-9aa9-66e666b38e0d.jpg)![common-programming-languages-1024x303](https://user-images.githubusercontent.com/74223472/118310535-c06aad00-b4bc-11eb-89ea-c84c349e6714.png)
-![Uploading common-programming-languages-1024x303.png…]()
+![github-banner](https://user-images.githubusercontent.com/74223472/118310113-2c004a80-b4bc-11eb-9aa9-66e666b38e0d.jpg)
