@@ -14,10 +14,10 @@ Hola'👋 (no I dont acutally know spanish lol)
 
 ⚡ Fun fact: I've got to crack stale/lame jokes weekly or my head will implode. (lol)
 
-Ok so here goes :
-
-Me: I'm looking for a Git girl...
-
-@Javano: Why?
-
-Me: Because, she'll commit (cues cheesy drum effect)
+                               Ok so here goes
+                               Me: I'm looking for a Git girl...
+                               @Javano: Why?
+                               Me: Because, she'll commit 
+                               (cues cheesy drum effect)
+                               
+                               
