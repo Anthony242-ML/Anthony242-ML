@@ -13,7 +13,7 @@ Hola'👋 (no I dont acutally know spanish lol)
 
 💬 Ask me about HTML, Software Engineering, Google Developers, Front-End Technologies
 
-📫 How to reach me: https://www.linkedin.com
+📫 How to reach me: https://www.linkedin.com/in/anthony-munnings-ii-2ab6211b9/
 
 ⚡ Fun fact: I've got to crack stale/lame jokes weekly or my head will implode. (lol)
 
